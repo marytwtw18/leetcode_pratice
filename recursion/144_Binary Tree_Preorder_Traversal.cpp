@@ -1,3 +1,4 @@
+//leetcode easy
 class Solution {
 public:
     //middle left right
