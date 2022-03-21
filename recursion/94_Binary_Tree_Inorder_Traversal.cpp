@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//leetcode easy
 class Solution {
 public:
     //left middle right
